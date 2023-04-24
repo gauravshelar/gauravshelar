@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Shelar</h1>
+<h1 align="center">Hello, I'm Gaurav Shelar</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravshelar&label=Profile%20views&color=0e75b6&style=flat" alt="gauravshelar" /> </p>
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Scientist / Data Analysist / MySQL**
 
-- 💬 Ask me about
+- 💬 Ask me about 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
